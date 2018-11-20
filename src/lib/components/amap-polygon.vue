@@ -12,6 +12,7 @@ export default {
     'zIndex',
     'path',
     'bubble',
+    'cursor',
     'strokeColor',
     'strokeOpacity',
     'strokeWeight',
